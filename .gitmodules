@@ -1,0 +1,3 @@
+[submodule "cakephp-realworld-example-app"]
+	path = cakephp-realworld-example-app
+	url = https://github.com/gothinkster/cakephp-realworld-example-app.git
